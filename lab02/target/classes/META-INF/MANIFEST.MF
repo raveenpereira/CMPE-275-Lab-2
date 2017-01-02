@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: lab02
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: ishanvadwala
+Implementation-Vendor-Id: com.ishan
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/lab02/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

@@ -1,0 +1,14 @@
+com/ishan/cmpe/model/Phone.class
+com/ishan/cmpe/repository/UserRepository.class
+com/ishan/cmpe/Application.class
+com/ishan/cmpe/repository/PhoneRepository.class
+com/ishan/cmpe/model/RequestClass.class
+com/ishan/cmpe/service/UserServiceImpl.class
+com/ishan/cmpe/controller/RESTfulController.class
+com/ishan/cmpe/model/User.class
+com/ishan/cmpe/service/UserService.class
+com/ishan/cmpe/service/PhoneService.class
+com/ishan/cmpe/controller/PhoneController.class
+com/ishan/cmpe/controller/UserController.class
+com/ishan/cmpe/service/PhoneServiceImpl.class
+com/ishan/cmpe/model/Address.class

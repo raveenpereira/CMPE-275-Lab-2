@@ -1,0 +1,14 @@
+/Users/ishanvadwala/Code/lab02/src/main/java/com/ishan/cmpe/model/RequestClass.java
+/Users/ishanvadwala/Code/lab02/src/main/java/com/ishan/cmpe/controller/UserController.java
+/Users/ishanvadwala/Code/lab02/src/main/java/com/ishan/cmpe/controller/PhoneController.java
+/Users/ishanvadwala/Code/lab02/src/main/java/com/ishan/cmpe/service/UserServiceImpl.java
+/Users/ishanvadwala/Code/lab02/src/main/java/com/ishan/cmpe/controller/RESTfulController.java
+/Users/ishanvadwala/Code/lab02/src/main/java/com/ishan/cmpe/Application.java
+/Users/ishanvadwala/Code/lab02/src/main/java/com/ishan/cmpe/repository/UserRepository.java
+/Users/ishanvadwala/Code/lab02/src/main/java/com/ishan/cmpe/service/UserService.java
+/Users/ishanvadwala/Code/lab02/src/main/java/com/ishan/cmpe/model/Address.java
+/Users/ishanvadwala/Code/lab02/src/main/java/com/ishan/cmpe/service/PhoneServiceImpl.java
+/Users/ishanvadwala/Code/lab02/src/main/java/com/ishan/cmpe/model/Phone.java
+/Users/ishanvadwala/Code/lab02/src/main/java/com/ishan/cmpe/model/User.java
+/Users/ishanvadwala/Code/lab02/src/main/java/com/ishan/cmpe/service/PhoneService.java
+/Users/ishanvadwala/Code/lab02/src/main/java/com/ishan/cmpe/repository/PhoneRepository.java
